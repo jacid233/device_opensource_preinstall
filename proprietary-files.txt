@@ -1,0 +1,2 @@
+product/app/via/via.apk;OVERRIDES=Browser,Browser2,Jelly;PRESIGNED
+product/app/aegis/aegis.apk;PRESIGNED
